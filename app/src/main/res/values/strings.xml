@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tugas Week5-1</string>
+
+    <!-- Umum -->
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_confirm_password">Konfirmasi password</string>
+    <string name="label_full_name">Nama lengkap</string>
+    <string name="logo_desc">Logo aplikasi</string>
+
+    <!-- Login -->
+    <string name="login_title">Selamat datang</string>
+    <string name="login_subtitle">Masuk untuk melanjutkan</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_forgot">Lupa password?</string>
+    <string name="login_no_account">Belum punya akun?</string>
+    <string name="login_register_link">Daftar</string>
+    <string name="login_failed">Email atau password salah</string>
+    <string name="login_register_success">Registrasi berhasil, silakan masuk</string>
+
+    <!-- Registrasi -->
+    <string name="register_title">Buat akun</string>
+    <string name="register_subtitle">Isi data berikut untuk mendaftar</string>
+    <string name="register_button">Daftar</string>
+    <string name="register_have_account">Sudah punya akun?</string>
+    <string name="register_login_link">Masuk</string>
+    <string name="register_email_taken">Email sudah terdaftar</string>
+
+    <!-- Lupa password -->
+    <string name="forgot_title">Lupa password</string>
+    <string name="forgot_subtitle">Masukkan email akun Anda untuk mengatur ulang password</string>
+    <string name="forgot_button">Lanjutkan</string>
+    <string name="forgot_back_to_login">Kembali ke halaman masuk</string>
+    <string name="forgot_email_not_found">Email tidak terdaftar</string>
+
+    <!-- Reset password -->
+    <string name="reset_title">Password baru</string>
+    <string name="reset_subtitle">Buat password baru untuk %1$s</string>
+    <string name="reset_button">Simpan password</string>
+    <string name="reset_success">Password berhasil diubah, silakan masuk</string>
+
+    <!-- Beranda -->
+    <string name="home_greeting">Halo, %1$s!</string>
+    <string name="home_subtitle">Anda berhasil masuk</string>
+    <string name="home_logout">Keluar</string>
+
+    <!-- Validasi -->
+    <string name="error_name_empty">Nama tidak boleh kosong</string>
+    <string name="error_email_empty">Email tidak boleh kosong</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="error_password_empty">Password tidak boleh kosong</string>
+    <string name="error_password_short">Password minimal 6 karakter</string>
+    <string name="error_password_mismatch">Konfirmasi password tidak sama</string>
+</resources>
